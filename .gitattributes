@@ -1,0 +1,9 @@
+# .gitattributes
+
+# Set the default behavior for text files
+* text=auto
+
+# Explicitly declare files that will always have LF line endings on checkout.
+*.c text eol=lf
+*.h text eol=lf
+
