@@ -11,10 +11,6 @@ Welcome to my Web Development Projects repository! This repository showcases my 
 - **Description**: Created a personal resume page using HTML.
 - **Highlights**: Showcased my skills, education, and experience in a structured and professional manner.
 
-### 3. CSS Mastery
-- **Description**: Gained proficiency in CSS through various projects and exercises.
-- **Highlights**: Developed a solid understanding of CSS fundamentals, including styling, layout, and responsive design.
-
 ### 4. Amazon Clone
 - **Description**: Developed a clone of Amazon's website to practice front-end development and mimic e-commerce functionality.
 - **Highlights**: Implemented key features such as product listings, search functionality, and user interactions.
